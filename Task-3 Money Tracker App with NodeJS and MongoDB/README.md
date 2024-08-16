@@ -4,6 +4,9 @@
 
 The Money Tracker WebApp is a full-stack application designed to help users manage their expenses and income. Built using HTML, CSS, Node.js, and MongoDB, this application provides a user-friendly interface for tracking financial transactions and viewing financial summaries.
 
+![image](https://github.com/user-attachments/assets/4454a27f-fccb-4fa8-8616-9db2b33be4d1)
+
+
 ## Features
 
 - **Track Expenses and Income**: Easily add, edit, and delete records of your financial transactions.
