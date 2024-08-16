@@ -40,7 +40,14 @@ Ensure you have Node.js and npm installed on your machine. You can download Node
    npm install --save-dev nodemon
    ```
 
-3. **Set Up MongoDB**
+   ![image](https://github.com/user-attachments/assets/d9b5f343-f5fe-4912-b7dd-b96dbffb260d)
+
+   ![image](https://github.com/user-attachments/assets/ee870bc5-4945-4648-99f1-3bfc17f70984)
+
+   ![image](https://github.com/user-attachments/assets/3a0ea3b3-14bf-4d40-b480-6dd4e9ce0027)
+
+
+4. **Set Up MongoDB**
 
    Ensure you have MongoDB installed and running. You can download it from [mongodb.com](https://www.mongodb.com/try/download/community).
 
