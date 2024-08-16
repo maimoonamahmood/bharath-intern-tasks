@@ -50,6 +50,9 @@ Ensure you have Node.js and npm installed on your machine. You can download Node
    mongod
    ```
 
+   ![image](https://github.com/user-attachments/assets/6743666e-4f78-4fde-bcd3-afa431469336)
+
+
    By default, MongoDB listens on port `27017`.
 
 ## Running the Application
@@ -70,20 +73,32 @@ This command uses `nodemon` to start `server.js` and automatically restarts the 
 
 2. **Create an Article**
 
+   ![image](https://github.com/user-attachments/assets/3f90ca68-4669-466b-bb33-1842d8a9434a)
+
+
    - Go to `/new` to access the form for creating a new article.
    - Fill in the article title and content, then submit the form.
 
 3. **Read Articles**
+
+![image](https://github.com/user-attachments/assets/f9f69f69-9d8e-45ee-82e5-802c97819c02)
+
 
    - The home page (`/`) lists all existing blog articles.
    - Click on an article's title to view the full content.
 
 4. **Edit an Article**
 
+![image](https://github.com/user-attachments/assets/a393fb47-d614-449b-8ac2-0954c09a0eb5)
+
+
    - Navigate to `/edit/:id`, replacing `:id` with the article's ID.
    - Modify the article title and content, then submit the form to save changes.
 
 5. **Delete an Article**
+
+
+![image](https://github.com/user-attachments/assets/df667458-1718-4643-ad5d-f988b6242369)
 
    - On the article list page (`/`), click the "Delete" button next to the article you want to remove.
 
