@@ -21,4 +21,18 @@ The Money Tracker WebApp is a full-stack application designed to help users mana
 - **Database**:
   - MongoDB
 
+## Installation
+### 1. Open Terminal under your project directory and type the following commands:
+Install Dependencies:
+Ensure you have Node.js and npm installed.
+
+      npm install
+
+### 2. Set up mongoDB
+
+
+![image](https://github.com/user-attachments/assets/192028a2-eb90-447c-a74d-cb850d3df815)
+
+
+
 
